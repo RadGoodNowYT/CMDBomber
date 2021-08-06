@@ -1,2 +1,2 @@
 # CMDBomber
-This is fork bomb. If you launched it, reboot your pc. 
+This is fork bomb. If you launched in real machine, reboot it. 
